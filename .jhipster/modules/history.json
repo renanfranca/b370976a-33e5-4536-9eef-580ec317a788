@@ -95,5 +95,17 @@
       "configurationFormat" : "yaml",
       "indentSize" : 2
     }
+  }, {
+    "module" : "thymeleaf-template",
+    "date" : "2024-01-15T13:52:23.218662600Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
   } ]
 }
