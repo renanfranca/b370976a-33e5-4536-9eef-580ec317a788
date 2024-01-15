@@ -1,6 +1,7 @@
 const postcssConfig = {
   plugins: [
     require('autoprefixer'),
+            ,require('tailwindcss')
     // jhipster-needle-thymeleaf-postcss-plugins
   ],
 };
